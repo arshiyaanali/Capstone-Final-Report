@@ -25,7 +25,7 @@ Methodology:
    - Grid Search for optimizing model parameters
 
 Results:
-- Best Performing Model: The Support Vector Machine (SVM) model achieved an accuracy of 0.215 for math test and 0.21 for the reading test. Whereas for the writing test the Logistic Regression Model with an accuracy of 0.095.
+- Best Performing Model: The Support Vector Machine (SVM) model achieved an accuracy of 0.140 for math test, 0.155 for the reading test and 0.115 for the writing test.
 - Important Features: Significant predictors of student performance included parental level of education, lunch type, and test preparation courses.
 - Ethnic Differences: Academic performance varied across different ethnic groups.
 - Health Impact: Students with better health indicators generally scored higher on tests.
