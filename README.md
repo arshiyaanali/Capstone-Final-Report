@@ -25,7 +25,7 @@ Methodology:
    - Grid Search for optimizing model parameters
 
 Results:
-- Best Performing Model: The Support Vector Machine (SVM) model achieved an accuracy of 0.140 for math test, 0.155 for the reading test and 0.115 for the writing test.
+- Best Performing Model: The Support Vector Machine (SVM) model achieved an accuracy of 0.140 for math test, 0.155 for the reading test and 0.115 for the writing test. I did a summary model at the end and it tells me that the Support Vending Machine had the best accuracy overall at 0.06.
 - Important Features: Significant predictors of student performance included parental level of education, lunch type, and test preparation courses.
 - Ethnic Differences: Academic performance varied across different ethnic groups.
 - Health Impact: Students with better health indicators generally scored higher on tests.
